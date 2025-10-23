@@ -1,0 +1,10 @@
+C:\JANE\Balgos\BalgosDatabase\bin\Debug\BalgosDatabase.dacpac
+C:\JANE\Balgos\BalgosDatabase\bin\Debug\BalgosDatabase.dll
+C:\JANE\Balgos\BalgosDatabase\bin\Debug\BalgosDatabase.pdb
+C:\JANE\Balgos\BalgosDatabase\obj\Debug\BalgosDatabase.sqlproj.AssemblyReference.cache
+C:\JANE\Balgos\BalgosDatabase\obj\Debug\Model.xml
+C:\JANE\Balgos\BalgosDatabase\obj\Debug\refactor.xml
+C:\JANE\Balgos\BalgosDatabase\obj\Debug\postdeploy.sql
+C:\JANE\Balgos\BalgosDatabase\obj\Debug\predeploy.sql
+C:\JANE\Balgos\BalgosDatabase\obj\Debug\BalgosDatabase.dll
+C:\JANE\Balgos\BalgosDatabase\obj\Debug\BalgosDatabase.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Balgos_IPT101/1.0.0": {
+        "runtime": {
+          "Balgos_IPT101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Balgos_IPT101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
